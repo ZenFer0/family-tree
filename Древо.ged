@@ -1,0 +1,501 @@
+﻿0 HEAD
+1 SOUR AgelongTree
+2 NAME Agelong Tree
+2 VERS 5.5
+2 CORP Genery.com
+1 CHAR UTF-8
+1 DATE 27 JUL 2020
+1 GEDC
+2 VERS 5.5.1
+2 FORM Lineage-Linked
+1 SUBM @U0@
+0 @U0@ SUBM
+1 NAME Agelong Tree, https://genery.com
+0 @I1@ INDI
+1 _UID 57A875EA_45
+1 NAME Михаил Андреевич /Юрков/
+2 GIVN Михаил Андреевич
+1 SEX M
+1 BIRT
+2 DATE 16 APR 2020
+1 FAMC @F1@
+0 @I2@ INDI
+1 _UID 57A875EA_44
+1 NAME Катерина Валентиновна / (Васина)/
+2 GIVN Катерина Валентиновна
+2 SURN Васина
+1 SEX F
+1 FAMC @F2@
+0 @I3@ INDI
+1 _UID 57A875EA_43
+1 NAME Юлия /Васина/
+2 GIVN Юлия
+1 SEX F
+1 FAMS @F2@
+0 @I4@ INDI
+1 _UID 57A875EA_42
+1 NAME Денис Валентинович /Сухов/
+2 GIVN Денис Валентинович
+1 SEX M
+1 FAMC @F3@
+0 @I5@ INDI
+1 _UID 57A875EA_41
+1 NAME Валентин /Сухов/
+2 GIVN Валентин
+1 SEX M
+1 FAMS @F3@
+0 @I6@ INDI
+1 _UID 57A875EA_39
+1 NAME Татьяна Елизаровна /Васина/
+2 GIVN Татьяна Елизаровна
+1 SEX F
+1 BIRT
+2 PLAC Россия
+1 FAMC @F4@
+1 EVEN
+2 TYPE Death of Spouse
+1 FAMS @F5@
+0 @I7@ INDI
+1 _UID 57A875EA_37
+1 NAME Раиса /Пасюк (Шемет)/
+2 GIVN Раиса
+2 SURN Шемет
+1 SEX F
+1 BIRT
+2 DATE 10 FEB 1949
+2 PLAC Россия
+1 EVEN
+2 TYPE Death of Spouse
+1 FAMS @F6@
+0 @I8@ INDI
+1 _UID 57A875EA_36
+1 NAME Дмитрий Владимирович /Васин (Васин)/
+2 GIVN Дмитрий Владимирович
+2 SURN Васин
+1 SEX M
+1 BIRT
+2 DATE 15 DEC 1981
+2 PLAC Россия
+1 FAMC @F5@
+1 FAMS @F7@
+0 @I9@ INDI
+1 _UID 57A875EA_35
+1 NAME Елена Викторовна /Васина (Пасюк)/
+2 GIVN Елена Викторовна
+2 SURN Пасюк
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1985
+2 PLAC Россия
+1 FAMC @F6@
+1 FAMS @F7@
+0 @I10@ INDI
+1 _UID 57A875EA_34
+1 NAME Максим Дмитриевич /Васин/
+2 GIVN Максим Дмитриевич
+1 SEX M
+1 BIRT
+2 DATE 22 DEC 2007
+1 FAMC @F7@
+1 RESI Y
+1 RESI 
+2 EMAIL maxvasinru426@@gmail.com
+0 @I11@ INDI
+1 _UID 57A875EA_33
+1 NAME Иван Дмитриевич /Соловьёв/
+2 GIVN Иван Дмитриевич
+1 SEX M
+1 BIRT
+2 DATE 25 DEC 2015
+1 FAMC @F8@
+1 RESI Y
+0 @I12@ INDI
+1 _UID 57A875EA_32
+1 NAME Дмитрий Витальевич /Соловьёв/
+2 GIVN Дмитрий Витальевич
+1 SEX M
+1 BIRT
+2 DATE 4 APR 1999
+1 FAMS @F8@
+0 @I13@ INDI
+1 _UID 57A875EA_31
+1 NAME Ирина Михайловна /Соловьёва (Юркова)/
+2 GIVN Ирина Михайловна
+2 SURN Юркова
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1987
+2 PLAC г. Волгодонск
+1 FAMC @F9@
+1 RESI Y
+1 FAMS @F8@
+0 @I14@ INDI
+1 _UID 57A875EA_30
+1 NAME Александр Андреевич /Юрков/
+2 GIVN Александр Андреевич
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 2014
+1 FAMC @F1@
+1 RESI Y
+0 @I15@ INDI
+1 _UID 57A875EA_29
+1 NAME Анна Александровна /Юркова (Ковалёва)/
+2 GIVN Анна Александровна
+2 SURN Ковалёва
+1 SEX F
+1 BIRT
+2 DATE EST 26 AUG 1987
+1 FAMS @F1@
+0 @I16@ INDI
+1 _UID 57A875EA_28
+1 NAME Андрей Михайлович /Юрков/
+2 GIVN Андрей Михайлович
+1 SEX M
+1 BIRT
+2 DATE 24 NOV 1985
+2 PLAC г. Волгодонск
+1 FAMC @F9@
+1 RESI Y
+1 FAMS @F1@
+0 @I17@ INDI
+1 _UID 57A875EA_27
+1 NAME Татьяна Анатольевна /Юркова (Ферисова)/
+2 GIVN Татьяна Анатольевна
+2 SURN Ферисова
+1 SEX F
+1 BIRT
+2 DATE 8 DEC 1961
+1 FAMS @F9@
+0 @I18@ INDI
+1 _UID 57A875EA_26
+1 NAME Маша //
+2 GIVN Маша
+1 SEX F
+1 FAMC @F10@
+1 RESI Y
+0 @I19@ INDI
+1 _UID 57A875EA_25
+1 NAME Богдан //
+2 GIVN Богдан
+1 SEX M
+1 FAMC @F10@
+1 RESI Y
+0 @I20@ INDI
+1 _UID 57A875EA_24
+1 NAME Вадим //
+2 GIVN Вадим
+1 SEX M
+1 FAMC @F10@
+1 RESI Y
+0 @I21@ INDI
+1 _UID 57A875EA_23
+1 NAME //
+1 SEX M
+1 FAMS @F10@
+0 @I22@ INDI
+1 _UID 57A875EA_22
+1 NAME Татьяна Александровна / (Юркова)/
+2 GIVN Татьяна Александровна
+2 SURN Юркова
+1 SEX F
+1 BIRT
+2 DATE 19 NOV 1977
+2 PLAC г. Краснодар
+1 FAMC @F11@
+1 RESI Y
+1 FAMS @F10@
+0 @I23@ INDI
+1 _UID 57A875EA_21
+1 NAME Вероника Александровна / (Юркова)/
+2 GIVN Вероника Александровна
+2 SURN Юркова
+1 SEX F
+1 FAMC @F12@
+0 @I24@ INDI
+1 _UID 57A875EA_20
+1 NAME Юрий Александрович /Юрков/
+2 GIVN Юрий Александрович
+1 SEX M
+1 FAMC @F12@
+0 @I25@ INDI
+1 _UID 57A875EA_19
+1 NAME /Юркова/
+1 SEX F
+1 FAMS @F12@
+0 @I26@ INDI
+1 _UID 57A875EA_18
+1 NAME Алексей Александрович /Юрков/
+2 GIVN Алексей Александрович
+1 SEX M
+1 BIRT
+2 DATE 13 APR 1983
+2 PLAC г. Луцк
+1 FAMC @F11@
+1 RESI Y
+1 FAMS @F12@
+0 @I27@ INDI
+1 _UID 57A875EA_17
+1 NAME /Юркова/
+1 SEX F
+1 FAMS @F11@
+0 @I28@ INDI
+1 _UID 57A875EA_16
+1 NAME Маша Александровна / (Юркова)/
+2 GIVN Маша Александровна
+2 SURN Юркова
+1 SEX F
+1 FAMC @F13@
+0 @I29@ INDI
+1 _UID 57A875EA_15
+1 NAME /Юркова/
+1 SEX F
+1 FAMS @F13@
+0 @I30@ INDI
+1 _UID 57A875EA_14
+1 NAME Сергей Евгеньевич /Юрков/
+2 GIVN Сергей Евгеньевич
+1 SEX M
+1 BIRT
+2 DATE 5 JAN 1993 OR 6 JAN 1993
+2 PLAC ст. Крыловская
+1 FAMC @F14@
+1 RESI Y
+0 @I31@ INDI
+1 _UID 57A875EA_13
+1 NAME Александр Евгеньевич /Юрков/
+2 GIVN Александр Евгеньевич
+1 SEX M
+1 BIRT
+2 DATE EST 3 SEP 1984
+2 PLAC ст. Крыловская
+1 FAMC @F14@
+1 RESI Y
+1 FAMS @F13@
+0 @I32@ INDI
+1 _UID 57A875EA_12
+1 NAME /Юркова/
+1 SEX F
+1 FAMS @F14@
+0 @I33@ INDI
+1 _UID 57A875EA_11
+1 NAME Михаил Елизарович /Юрков/
+2 GIVN Михаил Елизарович
+1 SEX M
+1 BIRT
+2 DATE 1 FEB 1962
+2 PLAC Сеполь
+1 FAMC @F4@
+1 FAMS @F9@
+0 @I34@ INDI
+1 _UID 57A875EA_10
+1 NAME Александр Елизарович /Юрков/
+2 GIVN Александр Елизарович
+1 SEX M
+1 BIRT
+2 DATE 11 MAR 1953
+2 PLAC Сеполь
+1 FAMC @F4@
+1 FAMS @F11@
+0 @I35@ INDI
+1 _UID 57A875EA_9
+1 NAME Евгений Елизарович /Юрков/
+2 GIVN Евгений Елизарович
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1952
+2 PLAC Фоки
+1 FAMC @F4@
+1 FAMS @F14@
+0 @I36@ INDI
+1 _UID 57A875EA_8
+1 NAME Анна Михайловна /Юркова (Галкина)/
+2 GIVN Анна Михайловна
+2 SURN Галкина
+1 SEX F
+1 BIRT
+2 DATE 20 JUN 1930
+1 EVEN
+2 TYPE Death of Spouse
+1 FAMS @F4@
+0 @I37@ INDI
+1 _UID 57A875EA_6
+1 NAME Ольга Владимировна /Сухова (Васина)/
+2 GIVN Ольга Владимировна
+2 SURN Васина
+1 SEX F
+1 FAMC @F5@
+1 BIRT
+2 DATE 25 JAN 1988
+1 FAMS @F3@
+0 @I38@ INDI
+1 _UID 57A875EA_5
+1 NAME Валентин Владимирович /Васин/
+2 GIVN Валентин Владимирович
+1 SEX M
+1 FAMC @F5@
+1 BIRT
+2 DATE 25 JAN 1988
+1 FAMS @F2@
+0 @I39@ INDI
+1 _UID 57A875EA_4
+1 NAME Эдуард Сергеевич /Жилинов/
+2 GIVN Эдуард Сергеевич
+1 SEX M
+1 BIRT
+2 DATE 20 JUL 2005
+1 FAMC @F15@
+0 @I40@ INDI
+1 _UID 57A875EA_3
+1 NAME Сергей /Жилинов (Жилинов)/
+2 GIVN Сергей
+2 SURN Жилинов
+1 SEX M
+1 FAMS @F15@
+0 @I41@ INDI
+1 _UID 57A875EA_2
+1 NAME Анна Викторовна /Жилинкова (Пасюк)/
+2 GIVN Анна Викторовна
+2 SURN Пасюк
+1 SEX F
+1 BIRT
+2 DATE 31 OCT 1980
+1 FAMC @F6@
+1 FAMS @F15@
+0 @I42@ INDI
+1 _UID 57A875EA_1
+1 NAME Анастасия Дмитриевна / (Васина)/
+2 GIVN Анастасия Дмитриевна
+2 SURN Васина
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 2012
+1 FAMC @F7@
+0 @I43@ INDI
+1 _UID 57A875EA_40
+1 NAME Владимир /Васин (Васин)/
+2 GIVN Владимир
+2 SURN Васин
+1 SEX M
+1 BIRT
+2 PLAC Россия
+1 EVEN
+2 TYPE Death of Spouse
+1 DEAT
+2 CAUS Рак легких
+1 FAMS @F5@
+0 @I44@ INDI
+1 _UID 57A875EA_38
+1 NAME Виктор /Пасюк (Пасюк)/
+2 GIVN Виктор
+2 SURN Пасюк
+1 SEX M
+1 BIRT
+2 DATE 1 OCT 1954
+2 PLAC Россия
+1 EVEN
+2 TYPE Death of Spouse
+1 DEAT
+2 DATE 30 MAR 2011
+2 CAUS Болезнь
+1 FAMS @F6@
+0 @I45@ INDI
+1 _UID 57A875EA_7
+1 NAME Елизар /Юрков/
+2 GIVN Елизар
+1 SEX M
+1 BIRT
+2 DATE 10 AUG 1930
+1 EVEN
+2 TYPE Death of Spouse
+1 DEAT Y
+1 FAMS @F4@
+0 @F1@ FAM
+1 HUSB @I16@
+1 WIFE @I15@
+1 CHIL @I14@
+1 CHIL @I1@
+1 MARR Y
+0 @F2@ FAM
+1 HUSB @I38@
+1 WIFE @I3@
+1 CHIL @I2@
+1 MARR Y
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I37@
+1 CHIL @I4@
+1 MARR Y
+0 @F4@ FAM
+1 HUSB @I45@
+1 WIFE @I36@
+1 CHIL @I6@
+1 CHIL @I35@
+1 CHIL @I34@
+1 CHIL @I33@
+1 MARR Y
+0 @F5@ FAM
+1 HUSB @I43@
+1 WIFE @I6@
+1 CHIL @I8@
+1 CHIL @I37@
+1 CHIL @I38@
+0 @F6@ FAM
+1 HUSB @I44@
+1 WIFE @I7@
+1 CHIL @I41@
+1 CHIL @I9@
+0 @F7@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I10@
+1 CHIL @I42@
+1 DIV Y
+0 @F8@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I11@
+1 MARR Y
+0 @F9@ FAM
+1 HUSB @I33@
+1 WIFE @I17@
+1 CHIL @I16@
+1 CHIL @I13@
+1 MARR Y
+0 @F10@ FAM
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+1 MARR Y
+0 @F11@ FAM
+1 HUSB @I34@
+1 WIFE @I27@
+1 CHIL @I22@
+1 CHIL @I26@
+1 MARR Y
+0 @F12@ FAM
+1 HUSB @I26@
+1 WIFE @I25@
+1 CHIL @I23@
+1 CHIL @I24@
+1 MARR Y
+0 @F13@ FAM
+1 HUSB @I31@
+1 WIFE @I29@
+1 CHIL @I28@
+1 MARR Y
+0 @F14@ FAM
+1 HUSB @I35@
+1 WIFE @I32@
+1 CHIL @I31@
+1 CHIL @I30@
+1 MARR Y
+0 @F15@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I39@
+1 DIV Y
+1 MARR Y
+0 TRLR
